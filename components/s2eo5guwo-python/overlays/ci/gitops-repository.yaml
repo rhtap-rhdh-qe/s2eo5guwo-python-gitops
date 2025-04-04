@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s2eo5guwo-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s2eo5guwo-python-gitops
